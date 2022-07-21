@@ -13,7 +13,7 @@ Original paper by : [Simple Copy-Paste is a Strong Data Augmentation](https://ar
 
 |Images||
 |--|--|
-|<img src="./example_images/cute_dog.jpeg" height="200" width="250">|<img src="/home/junshick/Workspace/Personal_project/Copy-Paste-Augmentation/example_images/happy_people.jpeg" height="200" width="250">|<img src="./example_images/dog&people1.png" height="200" width="200">|
+|<img src="./example_images/cute_dog.jpeg" height="200" width="250">|<img src="./example_images/happy_people.jpeg" height="200" width="250">|<img src="./example_images/dog&people1.png" height="200" width="200">|
 
 </br>
 
