@@ -9,6 +9,7 @@ class CopyPaste():
 
         self.execute_prob = p
         self.scale_jittering_range = scale_jittering_range
+        self.random_padding = random_padding
     
     def _copypaste(self, image1, mask1, image2, mask2):
 
